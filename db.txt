@@ -1,0 +1,13 @@
+login
+create database bdd_login;
+use login;
+
+create table usuario (
+Usuario VARCHAR (15) PRIMARY KEY NOT NULL,
+Nombre VARCHAR(15),
+Contrasenia VARCHAR(25));
+show tables;
+desc usuario;
+
+INSERT INTO usuario(Usuario,Nombre,contrasenia) VALUES(
+"nincy02","Nincy","12345678");
