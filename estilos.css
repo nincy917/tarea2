@@ -1,0 +1,76 @@
+*{
+    padding:0;
+    margin:0;
+    background: rgb(54, 140, 121);
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    
+    
+    }
+
+.contenedor{
+    text-align: center;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 25px;
+  color: rgba(2, 1, 0, 0.924);
+  margin-top: 30px;
+}
+
+.contenedor {
+    font-size: 300%;
+
+}
+
+.cajalogin{
+text-align: center;
+width: 25%;
+height: 30vh;
+margin-right: auto;
+margin-left: auto;
+padding: 25px;
+margin-top: 100px;
+border-radius: 20px;
+border-style: solid;
+border-color: rgb(236, 253, 253);
+
+}
+
+.cajalogin{
+    text-align: center;
+    font-size: 35px;
+    margin: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(236, 253, 253);
+
+}
+
+.cajalogin input{
+    text-align: center;
+    width: 90%;
+    margin: 15px;
+    font-size: 25px;
+    border-radius: 40px;
+    padding-left: 10px;
+    color: rgb(8, 8, 8);
+    background-color: white;
+
+
+}
+.cajalogin button{
+    text-align: center;
+    width: 90%;
+    margin: 15px;
+    font-size: 25px;
+    border-radius: 40px;
+    padding-left: 10px;
+    color: rgb(8, 8, 8);
+    background-color: white;
+       
+}

@@ -1,0 +1,56 @@
+.titulo{
+    margin: 0;
+    padding: 0;
+    font-size: 100px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("img/1.jpg");
+    background-size: auto;
+    background-position: center;
+}
+
+.raiz{
+    padding: 10px;
+    margin: 175;
+    margin-top: 8px;
+    margin-left: 15px;
+    
+
+}
+.raiz:hover{
+    background-color: #0094DA;
+}
+.div{
+    padding: 10px;
+    margin: 175;
+    margin-top: 8px;
+    margin-left: 15px;
+   
+}
+.div:hover{
+    background-color: #0094DA;
+}
+.res{
+    
+        padding: 10px;
+        margin: 175;
+        margin-top: 8px;
+        margin-left: 15px;
+    
+}
+.res:hover{
+    background-color: #0094DA;
+}
+
+.a{
+    padding: 10px;
+    margin: 175;
+    margin-top: 8px;
+    margin-left: 15px;
+   
+}
+.a:hover{
+    background-color: #0094DA;
+}
